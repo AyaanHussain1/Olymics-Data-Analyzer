@@ -1,0 +1,6 @@
+# Ignore huge dataset files
+*.csv
+# Ignore python virtual environments
+.venv/
+venv/
+__pycache__/
